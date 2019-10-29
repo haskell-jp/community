@@ -52,4 +52,4 @@ Haskell Day 2019 の主催者は、本行動規範の趣旨に反してハラス
 
 本規範のテキスト部分は [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/) のもとに公開します。パブリック・ドメイン同様に、派生して作られた規範に一切のクレジット表示やオープンライセンスなどを要求しません。
 
-本規範は [ScalaMatsuri](http://scalamatsuri.org/) の規範を元に、 Haskell Day 2019 固有の事情に合わせて改変しました。ScalaMatsuri の規範は Geek Feminism wiki の規範例から派生しており、PNW Scala、NE Scala、および Scala Days の影響を受けています。
+本規範は [ScalaMatsuri](http://scalamatsuri.org/) の規範を元に、Haskell Day 2019 固有の事情に合わせて改変しました。ScalaMatsuri の規範は Geek Feminism wiki の規範例から派生しており、PNW Scala、NE Scala、および Scala Days の影響を受けています。
