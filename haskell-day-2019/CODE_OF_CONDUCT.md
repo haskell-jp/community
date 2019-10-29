@@ -45,7 +45,7 @@ Haskell Day 2019 の主催者は、本行動規範の趣旨に反してハラス
 報告窓口
 --------
 
-自分や他の人がハラスメントを受けた場合には(TODO: スタッフの確認方法)に直接ご連絡いただくか、 [haskell-jp-admins@googlegroups.com](mailto:haskell-jp-admins@googlegroups.com) までご連絡ください。
+自分や他の人がハラスメントを受けた場合には(TODO: スタッフの確認方法)に直接ご連絡いただくか、[haskell-jp-admins@googlegroups.com](mailto:haskell-jp-admins@googlegroups.com) までご連絡ください。
 
 ライセンスと帰属に関して
 ------------------------
