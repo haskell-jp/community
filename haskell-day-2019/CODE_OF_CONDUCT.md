@@ -47,7 +47,8 @@ Haskell Day 2019 の主催者は、本行動規範の趣旨に反してハラス
 
 自分や他の人がハラスメントを受けた場合には(TODO: スタッフの確認方法)に直接ご連絡いただくか、 [haskell-jp-admins@googlegroups.com](mailto:haskell-jp-admins@googlegroups.com) までご連絡ください。
 
-### ライセンスと帰属に関して
+ライセンスと帰属に関して
+------------------------
 
 本規範のテキスト部分は [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/) のもとに公開します。パブリック・ドメイン同様に、派生して作られた規範に一切のクレジット表示やオープンライセンスなどを要求しません。
 
