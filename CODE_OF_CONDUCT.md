@@ -2,7 +2,7 @@
 
 Haskell-jpのSlack Workspaceや各種GitHub Repositoryにおいて適用されるCode of Conductです。
 
-以下、Code of Conduct全文:
+以下、Code of Conduct 全文:
 
 ------------------------------------------------------------------------
 
@@ -24,9 +24,9 @@ Code of Conduct
 ----
 
 多様な背景を持つ人々が参加する技術コミュニティにおいて、そこで交わされるコミュニケーションは技術的な発表と交流の場に相応しいものであって欲しいと願っています。  
-Haskell-jp は、コミュニティの参加者に対するいかなるハラスメント行為も歓迎しません。
+Haskell-jpは、コミュニティの参加者に対するいかなるハラスメント行為も歓迎しません。
 
-Haskell-jp は、当Code of Conductが適用されるインターネット上のコミュニティ、イベント、および関連するSNS上でのコミュニケーションの全てにおいて、参加者、イベントにおける発表者、スポンサーなど、全ての関係者の皆様に対して本Code of Conductの遵守を求めます。  
+Haskell-jpは、当Code of Conductが適用されるインターネット上のコミュニティ、イベント、および関連するSNS上でのコミュニケーションの全てにおいて、参加者、イベントにおける発表者、スポンサーなど、全ての関係者の皆様に対して本Code of Conductの遵守を求めます。  
 コミュニティの参加者および関係者は、自身のハラスメント行為（意識的、無意識的を問わず）について他者から指摘を受けた場合は、直ちにその行動を中止することを期待されています。
 
 ハラスメント行為の一例には以下のようなものがあります:
@@ -48,7 +48,7 @@ Haskell-jp Adminsは、本Code of Conductの趣旨に反してハラスメント
 
 ------------------------------------------------------------------------
 
-同種のCode of Conductは、ハラスメントの無いコミュニティを提供することを目指して、例年 ScalaMatsuri、PNW Scala、NE Scala、Scala Days などでも採用されており、Haskell-jp もその精神に賛同します。
+同種のCode of Conductは、ハラスメントの無いコミュニティを提供することを目指して、例年 ScalaMatsuri、PNW Scala、NE Scala、Scala Days などでも採用されており、Haskell-jpもその精神に賛同します。
 
 このCode of Conductはより適切な運用を行うために随時更新される可能性があります。
 
@@ -62,4 +62,4 @@ Haskell-jp Adminsは、本Code of Conductの趣旨に反してハラスメント
 
 本規範のテキスト部分は [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/) のもとに公開します。パブリック・ドメイン同様に、派生して作られた規範に一切のクレジット表示やオープンライセンスなどを要求しません。
 
-本規範は [ScalaMatsuri](http://scalamatsuri.org/) の規範を元に、Haskell-jp 固有の事情に合わせて改変しました。ScalaMatsuri の規範は Geek Feminism wiki の規範例から派生しており、PNW Scala、NE Scala、および Scala Days の影響を受けています。
+本規範は [ScalaMatsuri](http://scalamatsuri.org/) の規範を元に、Haskell-jp固有の事情に合わせて改変しました。ScalaMatsuriの規範はGeek Feminism wikiの規範例から派生しており、PNW Scala、NE Scala、およびScala Daysの影響を受けています。
