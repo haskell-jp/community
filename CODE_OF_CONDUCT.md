@@ -1,4 +1,4 @@
-# Draft of "Haskell-jp Code of Conduct"
+# "Haskell-jp Code of Conduct"
 
 Haskell-jpのSlack Workspaceや各種GitHub Repositoryにおいて適用されるCode of Conductです。
 
