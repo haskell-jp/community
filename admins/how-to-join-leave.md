@@ -6,7 +6,8 @@ haskell-jp-admins@googlegroups.com に、以下の情報を含めたメールを
 - 本名を公開してもよいか
 - 電話番号
 - メールアドレス
-- Haskell-jp Slack Workspaceのスクリーンネーム
+- Haskell-jp Slack WorkspaceのユーザーID:
+    - ユーザーIDについては、[こちらのJSONファイル](https://github.com/haskell-jp/slack-log/blob/master/docs/json/.users.json)がユーザーIDと表示名を紐付けた表となっていますのでこちらからご覧ください
 - （必須ではありません） Twitterアカウント
 - GitHubアカウント
 - 動機や活動に対する意気込みなど
