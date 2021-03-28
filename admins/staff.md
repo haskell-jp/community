@@ -1,0 +1,7 @@
+- 代表理事: 山本悠滋 [@igrep](https://twitter.com/igrep)
+- 社員:
+    - 中嶋大嗣 [@nakaji\_dayo](https://twitter.com/nakaji_dayo/)
+    - 山下伸夫 [@nobsun](https://twitter.com/nobsun)
+    - 岡本和樹 [@kakkun61](https://haskell-jp.slack.com/team/U4L0B71L1)
+    - 木下郁章 [@fumieval](https://twitter.com/fumieval)
+    - 廣瀬達也 [@lotz84\_](https://twitter.com/lotz84_)
