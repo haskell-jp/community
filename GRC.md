@@ -1,8 +1,8 @@
-# Haskell Foundation 相互を尊重したコミュニケーションのためのガイドライン
+# Haskell-jp 相互を尊重したコミュニケーションのためのガイドライン
 
 ## 前文
 
-Haskell Foundation は、相互を尊重したコミュニケーションのために、これらのガイドラインを採用しています。
+日本Haskellユーザーグループ（Haskell-jp）は、相互を尊重したコミュニケーションのために、これらのガイドラインを採用しています。
 
 これらのガイドラインをHaskellコミュニティのメンバー全般に強制したいわけではありません。このガイドラインは、Haskellコミュニティにおける議論が高い水準のものであってほしい、また、公にそうした水準を維持する意思がある、ということを示すものです。他のメンバーが自発的に従ってくれることを願っています。
 
@@ -30,20 +30,10 @@ Haskellコミッティのメンバーとして、わたしたちは、公共の�
 
 わたしたちは、電子メール、ソーシャルメディア、ディスカッションフォーラムなど、Haskellがかかわる分野におけるすべての公的な交流において、これらの基準を適用しようとしています。
 
-わたしたちの誰かがこの基準に反した場合の理想的な行動は、その人に個人的にメッセージを書き、その人の過ちにそっと目を向けさせることです。それに抵抗がある場合には、委員会の委員長か（委員長が問題の人なら）副委員長あるいは共同委員長に連絡してください。
+わたしたちの誰かがこの基準に反した場合の理想的な行動は、その人に個人的にメッセージを書き、その人の過ちにそっと目を向けさせることです。それに抵抗がある場合には、[日本Haskellユーザーグループ管理委員会（Haskell-jp Admins）](https://haskell.jp/blog/posts/about_admins.html#%E4%BB%8A%E5%BE%8C%E3%81%AE%E6%B4%BB%E5%8B%95%E3%81%A8%E9%80%A3%E7%B5%A1%E5%85%88)に連絡してください。
 
 通常、わたしたちの対応は謝罪してあなたが不幸に思っている行為をとめることです。わたしたちが誤解されていたり、不当に非難されていると感じたとしても、もっとうまく伝えられたことがある可能性が高いし、謝罪は反論よりも和解をもたらす可能性がはるかに高いのです。
 
 ## 謝辞
 
-わたしたちのインスピレーションの源となった行動規範やダイバーシティ・ステートメントを確立した、以下のコミュニティやプロジェクトに感謝したいと思います。
-
-- この文書の最初に公開される1ヶ月前、Michael Snoyman は、わたしたちと同様の動機で[Stack Code of conduct](https://www.snoyman.com/blog/2018/11/proposal-stack-coc)を提案しました。
-- 2018年10月に公開された[GNU Kind Communication Guidelines](https://www.gnu.org/philosophy/kind-communication.html)もわたしたちが目指すポジティブなトーンを表現しています。[Stallmanの投稿](https://lwn.net/Articles/769167/)は、その意図を説明しています。
-- [Snowdrift community code of conduct](https://wiki.snowdrift.coop/community/conduct)には、[Guidelines for healthy communication](https://wiki.snowdrift.coop/community/honor-users)も併記されています。
-- [Open code of conduct](https://github.com/todogroup/opencodeofconduct/blob/gh-pages/index.md)
-- [Pycon code of conduct](https://github.com/python/pycon-code-of-conduct/blob/master/code_of_conduct.md)
-- [Rust code of conduct](https://www.rust-lang.org/policies/code-of-conduct)
-- [TypeLevel code of conduct](https://typelevel.org/conduct.html)
-- [Contributor covenant](https://www.contributor-covenant.org/)
-
+こちらのガイドラインは、[Haskell FoundationのGuidelines for Respectful Communication](https://haskell.foundation/guidelines-for-respectful-communication/)を日本語に翻訳し、運用の主体を日本Haskellユーザーグループ（Haskell-jp）に、相談窓口を日本Haskellユーザーグループ管理委員会（Haskell-jp Admins）に変更したものです。策定いただいたHaskell Foundationのみなさんに感謝します。
