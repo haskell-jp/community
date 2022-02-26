@@ -1,4 +1,4 @@
-- 代表理事: 山本悠滋 [@igrep](https://twitter.com/igrep)
+- 代表理事: 山本悠滋 @igrep [Slack](https://app.slack.com/client/T4LFB6C4C/C5666B6BB/user_profile/U4LGTMTMK) [Twitter](https://twitter.com/igrep)
 - 社員:
     - 中嶋大嗣 [@nakaji\_dayo](https://twitter.com/nakaji_dayo/)
     - 山下伸夫 [@nobsun](https://twitter.com/nobsun)
